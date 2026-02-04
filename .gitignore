@@ -1,0 +1,27 @@
+# Output files
+*.txt
+*.csv
+*.json
+*.xml
+output/
+results/
+processed/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+.claude.json
